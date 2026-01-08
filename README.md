@@ -29,3 +29,73 @@ Para garantir que o autoexec.cfg seja executado automaticamente toda vez que voc
     Na aba Geral, na seção Opções de Lançamento, digite o seguinte comando:
     +exec autoexec.cfg 
 
+
+## Key Bindings
+
+## Console Commands Reference
+
+To enable this config in practice mode: `exec autoexec; mp_restartgame 1` 
+
+### Movement
+| Action | Key | Description |
+|--------|-----|-------------|
+| Crouch | `Ctrl` | Crouch with Ctrl |
+| Jump | `Space` | Jump (crouch jump ready) |
+
+### Grenades
+| Grenade Type | Key | 
+|--------------|-----|
+| Flashbang | `Mouse5` |
+| Smoke Grenade | `X` |
+| HE Grenade | `C` |
+| Molotov | `V` |
+
+### Utility
+| Action | Key | Note |
+|--------|-----|------|
+| Drop C4 | `J` | Automatically announces in team chat |
+
+## Features
+
+### HUD Settings
+- **Screen brightness**: 2.4
+- **HUD scaling**: 1.0
+- **Target ID**: Enabled (shows enemy identification on screen)
+- **Equipment display**: Always visible
+- **Build info**: Hidden
+
+### Radar
+- **Radar scale**: 0.3
+- **Teammate colors**: Enabled
+
+### Viewmodel
+- **Preset position**: 3 (Classic viewmodel)
+
+### Other Settings
+- **Silencer mode**: Prevents accidental silencer removal
+- **X-ray in spectator**: Enabled
+- **Random weapons in DM**: Disabled
+- **Teammate overhead info**: Mode 3 with colors
+
+## Training Configuration
+
+This configuration includes settings optimized for practice mode:
+
+- Cheats enabled
+- No auto-kick
+- No team balance
+- Extended round time (10000 seconds)
+- Zero freeze time
+- Buy anywhere on map
+- Maximum starting money ($65535)
+- Unlimited grenades and utility
+- Infinite ammo
+- Grenade trajectory visible for 10 seconds
+- Healthshot heals 100 HP
+
+## Notes
+
+- Movement uses `cl_usenewbob 1` for reduced weapon bobbing
+- All training commands require `sv_cheats 1` to be active
+
+
