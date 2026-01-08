@@ -1,5 +1,5 @@
 # CS2 - Configurações de Jogo e Treino ---autoexec.cfg
-Minhas configurações para jogar Counter-Strike 2.
+Minhas configurações para jogar Counter-Strike 2. [Key Binds](#Key-Bindings)
 
 #### Como usar
 
