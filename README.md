@@ -1,4 +1,4 @@
-# CS2- Configurações de Jogo e Treino ---autoexec.cfg
+# CS2 - Configurações de Jogo e Treino ---autoexec.cfg
 Minhas configurações para jogar Counter-Strike 2.
 
 #### Como usar
