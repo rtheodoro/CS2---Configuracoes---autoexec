@@ -99,7 +99,6 @@ This configuration includes settings optimized for practice mode:
 
 ## Notes
 
-- Movement uses `cl_usenewbob 1` for reduced weapon bobbing
 - All training commands require `sv_cheats 1` to be active
 
 
