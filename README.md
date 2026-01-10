@@ -90,9 +90,9 @@ Você pode encontrar facilmente a pasta correta através do Steam:
 
 3. Adicione Comandos
 Digite ou cole os comandos de console que você deseja executar automaticamente, cada um em uma nova linha. Por exemplo, você pode adicionar comandos para a sua mira, binds de pulo, configurações de áudio, etc. 
-Dica Importante: Adicione host_writeconfig no final do seu arquivo autoexec.cfg. Isso garante que o jogo salve quaisquer alterações feitas pelos comandos do seu autoexec nas suas configurações padrão permanentes. 
+**Dica Importante**: Adicione `host_writeconfig` no final do seu arquivo `autoexec.cfg`. Isso garante que o jogo salve quaisquer alterações feitas pelos comandos do seu autoexec nas suas configurações padrão permanentes. 
 4. Configure as Opções de Lançamento do Steam
-Para garantir que o autoexec.cfg seja executado automaticamente toda vez que você iniciar o CS2, você precisa adicionar um comando nas opções de lançamento do jogo no Steam: 
+Para garantir que o `autoexec.cfg` seja executado automaticamente toda vez que você iniciar o CS2, você precisa adicionar um comando nas opções de lançamento do jogo no Steam: 
 
     Na Biblioteca do Steam, clique com o botão direito em Counter-Strike 2 e selecione Propriedades.
     Na aba Geral, na seção Opções de Lançamento, digite o seguinte comando:
