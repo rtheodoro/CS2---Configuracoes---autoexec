@@ -1,13 +1,11 @@
 # CS2 - Configurações de Jogo e Treino ---autoexec.cfg
 Minhas configurações para jogar Counter-Strike 2. [Como Usar](#como-usar)
 
-## Key Bindings
-
-## Console Commands Reference
-
 To enable this config in practice mode: `exec autoexec; mp_restartgame 1` 
 
 Crosshair code: `CSGO-bMBxd-4XfA6-xPOLq-SVEBJ-knhrM`
+
+## Key Bindings
 
 ### Movement
 | Action | Key | 
