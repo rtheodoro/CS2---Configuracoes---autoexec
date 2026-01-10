@@ -36,24 +36,28 @@ Para garantir que o autoexec.cfg seja executado automaticamente toda vez que voc
 
 To enable this config in practice mode: `exec autoexec; mp_restartgame 1` 
 
+Crosshair code: `CSGO-bMBxd-4XfA6-xPOLq-SVEBJ-knhrM`
+
 ### Movement
 | Action | Key | Description |
 |--------|-----|-------------|
-| Crouch | `Ctrl` | Crouch with Ctrl |
-| Jump | `Space` | Jump (crouch jump ready) |
+| Duck | `shift` | Duck with Shift |
+| Jump | `space` | Jump |
+| Jump | `mwheeldown` | Jump |
+| Walk | `capslock` | Walk | 
+| Radar | `crtl` | Radar zoom| 
 
 ### Grenades
 | Grenade Type | Key | 
 |--------------|-----|
-| Flashbang | `Mouse5` |
-| Smoke Grenade | `X` |
-| HE Grenade | `C` |
-| Molotov | `V` |
+| Flashbang | `x` |
+| Smoke Grenade | `c` |
+| Molotov | `v` |
 
 ### Utility
 | Action | Key | Note |
 |--------|-----|------|
-| Drop C4 | `J` | Automatically announces in team chat |
+| Drop C4 | `Mouse5` | Automatically announces in team chat |
 
 ## Features
 
