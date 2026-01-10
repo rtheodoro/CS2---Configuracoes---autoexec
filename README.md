@@ -1,4 +1,4 @@
-# CS2 - Configurações de Jogo e Treino ---autoexec.cfg
+# CS2 - Configurações de Jogo e Treino 
 Minhas configurações para jogar Counter-Strike 2. [Como Usar](#como-usar)
 
 To enable this config in practice mode: `exec autoexec; mp_restartgame 1` 
