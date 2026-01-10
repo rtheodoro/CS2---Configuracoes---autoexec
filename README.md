@@ -10,13 +10,13 @@ To enable this config in practice mode: `exec autoexec; mp_restartgame 1`
 Crosshair code: `CSGO-bMBxd-4XfA6-xPOLq-SVEBJ-knhrM`
 
 ### Movement
-| Action | Key | Description |
-|--------|-----|-------------|
-| Duck | `shift` | Duck with Shift |
-| Jump | `space` | Jump |
-| Jump | `mwheeldown` | Jump |
-| Walk | `capslock` | Walk | 
-| Radar | `crtl` | Radar zoom| 
+| Action | Key | 
+|--------|-----|
+| Duck | `shift` | 
+| Jump | `space` | 
+| Jump | `mwheeldown` | 
+| Walk | `capslock` | 
+| Radar Zoom | `crtl` | 
 
 ### Grenades
 | Grenade Type | Key | 
