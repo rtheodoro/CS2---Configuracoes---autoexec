@@ -75,14 +75,14 @@ This configuration includes settings optimized for practice mode:
 Passo a Passo
 1. Localize a Pasta cfg 
 O local exato no Linux pode variar, mas geralmente segue um caminho semelhante a este dentro do seu diretório Steam:
-~/.steam/steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/ 
+`~/.steam/steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/` 
 Você pode encontrar facilmente a pasta correta através do Steam: 
 
     Abra o Steam e vá para a sua Biblioteca.
     Clique com o botão direito em Counter-Strike 2 e selecione `Propriedades > Arquivos Instalados > Explorar`.
     Na janela do explorador de arquivos que abrir, navegue até a pasta `game > csgo > cfg`. 
 
-2. Crie o Arquivo autoexec.cfg 
+2. Crie o Arquivo `autoexec.cfg` 
 
     Na pasta cfg, clique com o botão direito e crie um novo Documento de Texto.
     Renomeie o arquivo para `autoexec.cfg`. Certifique-se de que a extensão .txt não permaneça oculta (ative a visualização de extensões de arquivo se necessário).
