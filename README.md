@@ -40,6 +40,10 @@ Crosshair code: `CSGO-bMBxd-4XfA6-xPOLq-SVEBJ-knhrM`
 ### Radar
 - **Radar scale**: 0.3
 - **Teammate colors**: Enabled
+- **Rotate**: Desable
+- **Centered**: Desable
+- **Icon size min**: 0.6
+- **Scale Alternate**: 1
 
 ### Viewmodel
 - **Preset position**: 3 (Classic viewmodel)
