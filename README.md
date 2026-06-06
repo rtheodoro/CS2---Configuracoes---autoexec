@@ -80,6 +80,7 @@ This configuration includes settings optimized for practice mode:
 
 ## Notes
 
+- After get in a training map, use: `exec autoexec; mp_restartgame 1`
 - All training commands require `sv_cheats 1` to be active
 
 #### Como usar
