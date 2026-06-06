@@ -31,28 +31,36 @@ Crosshair code: `CSGO-bMBxd-4XfA6-xPOLq-SVEBJ-knhrM`
 ## Features
 
 ### HUD Settings
-- **Screen brightness**: 2.4
-- **HUD scaling**: 1.0
-- **Target ID**: Enabled (shows enemy identification on screen)
-- **Equipment display**: Always visible
-- **Build info**: Hidden
+| Setting | Value |
+|---------|-------|
+| Screen brightness | 2.4 |
+| HUD scaling | 1.0 |
+| Target ID | Enabled (shows enemy identification on screen) |
+| Equipment display | Always visible |
+| Build info | Hidden |
 
 ### Radar
-- **Radar scale**: 0.3
-- **Teammate colors**: Enabled
-- **Rotate**: Desable
-- **Centered**: Desable
-- **Icon size min**: 0.6
-- **Scale Alternate**: 1
+| Setting | Value |
+|---------|-------|
+| Radar scale | 0.3 |
+| Teammate colors | Enabled |
+| Rotate | Desable |
+| Centered | Desable |
+| Icon size min | 0.6 |
+| Scale Alternate | 1 |
 
 ### Viewmodel
-- **Preset position**: 3 (Classic viewmodel)
+| Setting | Value |
+|---------|-------|
+| Preset position | 3 (Classic viewmodel) |
 
 ### Other Settings
-- **Silencer mode**: Prevents accidental silencer removal
-- **X-ray in spectator**: Enabled
-- **Random weapons in DM**: Disabled
-- **Teammate overhead info**: Mode 3 with colors
+| Setting | Value |
+|---------|-------|
+| Silencer mode | Prevents accidental silencer removal |
+| X-ray in spectator | Enabled |
+| Random weapons in DM | Disabled |
+| Teammate overhead info | Mode 3 with colors |
 
 ## Training Configuration
 
@@ -93,9 +101,9 @@ Você pode encontrar facilmente a pasta correta através do Steam:
     Abra o arquivo `autoexec.cfg` com um editor de texto simples. 
 
 3. Adicione Comandos
-Digite ou cole os comandos de console que você deseja executar automaticamente, cada um em uma nova linha. Por exemplo, você pode adicionar comandos para a sua mira, binds de pulo, configurações de áudio, etc.
+Digite ou cole os comandos de console que você deseja executar automaticamente, cada um em uma nova linha. Por exemplo, você pode adicionar comandos para a sua mira, binds de pulo, configurações d[...]
 
-    - **Dica Importante**: Adicione `host_writeconfig` no final do seu arquivo `autoexec.cfg`. Isso garante que o jogo salve quaisquer alterações feitas pelos comandos do seu autoexec nas suas configurações padrão permanentes.
+    - **Dica Importante**: Adicione `host_writeconfig` no final do seu arquivo `autoexec.cfg`. Isso garante que o jogo salve quaisquer alterações feitas pelos comandos do seu autoexec nas suas confi[...]
 
 5. Configure as Opções de Lançamento do Steam
 Para garantir que o `autoexec.cfg` seja executado automaticamente toda vez que você iniciar o CS2, você precisa adicionar um comando nas opções de lançamento do jogo no Steam: 
@@ -103,4 +111,3 @@ Para garantir que o `autoexec.cfg` seja executado automaticamente toda vez que v
     Na Biblioteca do Steam, clique com o botão direito em Counter-Strike 2 e selecione Propriedades.
     Na aba Geral, na seção Opções de Lançamento, digite o seguinte comando:
     `+exec autoexec.cfg` 
-
